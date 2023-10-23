@@ -1,0 +1,8 @@
+fastai2>=0.0.11
+pydicom
+kornia
+pathlib
+pandas
+matplotlib
+numpy
+seaborn
